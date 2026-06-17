@@ -6,7 +6,7 @@ This folder contains a complete version of the capstone project based on the pro
 - `notebook.ipynb` - end-to-end notebook
 - `report.md` - written report
 - `requirements.txt` - Python packages
-- `data/` - raw dataset CSVs
+- `data/` - raw dataset CSVs " not included since the files were too big "
 - `model_results.csv` - Step 1 model comparison
 - `final_results.csv` - Step 1 + neural network comparison
 - `confusion_matrices.png` - Step 1 confusion matrices
@@ -16,3 +16,4 @@ This folder contains a complete version of the capstone project based on the pro
 ## Notes
 - The dataset was processed with TF-IDF after cleaning the text.
 - The notebook compares three classical ML models and one feed-forward neural network.
+- Used the Fake news Dataset
