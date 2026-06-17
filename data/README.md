@@ -1,5 +1,1 @@
-# Dataset Folder
-
-This folder contains the dataset used for the Machine Learning, Deep Learning & NLP Applications Capstone Project.
-
-Place the raw dataset file(s) here.
+The dataset is not included in this repository due to file size limitations.
